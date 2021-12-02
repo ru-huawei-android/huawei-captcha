@@ -1,0 +1,2 @@
+rootProject.name = "UserDetect"
+include ':app'

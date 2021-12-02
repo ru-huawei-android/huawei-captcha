@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserDetect</string>
+    <string name="success">CAPTCHA successfully passed!</string>
+    <string name="failure">Failed to pass CAPTCHA. Try Again</string>
+</resources>
